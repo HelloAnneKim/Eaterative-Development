@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: All Recipes
-  url: "/all-recipes/"
+- title: Recipes
+  url: "/recipes/"
   side: left
 
 # - title: "Templates"
