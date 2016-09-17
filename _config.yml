@@ -14,7 +14,9 @@ title: 'Eaterative Development'
 slogan: 'A lot of the same sh*t, just slightly different'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Eaterative Development combines the two goals of improving my baking as well as coding.'
+description: 'Eaterative Development combines the two goals of improving my baking as well as coding.  
+Warning: This is not really a recipe blog.  Many mi-steaks will be made.  
+Do not attempt the day of that really-important dinner or whatever...'
 # »«
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
@@ -27,7 +29,8 @@ author: Anne
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io/feeling-responsive'
+# url: 'https://phlow.github.io/feeling-responsive'
+url: ''
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
