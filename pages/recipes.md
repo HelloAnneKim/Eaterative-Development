@@ -27,19 +27,10 @@ image:
 meta_description:
 permalink: /recipes/
 ---
-Something here
+{% include list-recipes %}
+
+galleries below
+
 {% include gallery %}
 
-<ul class="post-list">
-{% for post in site.posts %}
-  {% if post.categories contains 'recipe' %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-      </h2>
-    </li>
-  {% endif %}
-{% endfor %}
-</ul>

@@ -7,10 +7,13 @@ date:   2016-09-03
 categories: recipes
 tags: gf, df, bread, challah, gf_df_challah, gf_df_challah_1_, gf_df_challah_1_0
 breadcrumb: true
+header: no
 ---
 [TL;DR Recipe][TLDR-Recipe]
 
 ![final](recipe_images/final.jpg)
+in between
+![other final]({{ site.urlimg }}gallery-example-1.jpg)
 
 I was really missing pika (my co-op) at MIT.  Every night, we share a delightful homemade dinner by one of the rotations of big and little cooks.  Because the meal is made to be shared, it has to cater to everyone's dietary restrictions: omnivore, pescatarian, vegetarian, vegan, gluten-free, low fodmap etc.  In the pika spirit, I embarked to make a gluten-free, dairy-free challah.  I would have gone the whole 9 and done vegan, but I really can't imagine doing challah without an egg wash.  
 
@@ -103,4 +106,4 @@ TODO
 
 <!-- [jekyll-docs]: http://jekyllrb.com/docs/home -->
 <!-- [TLDR-Recipe]: /about/ -->
-[TLDR-Recipe]: /recipes/gf-df-challah-1_0/tldr.html
+[TLDR-Recipe]: {{ site.baseurl }}/recipes/gf-df-challah-1_0/tldr.html
