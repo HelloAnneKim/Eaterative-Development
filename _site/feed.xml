@@ -14,9 +14,7 @@
 				<pubDate>Sat, 03 Sep 2016 00:00:00 +0900</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;/recipes/gf-df-challah-1_0/tldr.html&quot;&gt;TL;DR Recipe&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;recipe_images/final.jpg&quot; alt=&quot;final&quot; /&gt;
-in between
-&lt;img src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-1.jpg&quot; alt=&quot;other final&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/final.jpg&quot; alt=&quot;final&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I was really missing pika (my co-op) at MIT.  Every night, we share a delightful homemade dinner by one of the rotations of big and little cooks.  Because the meal is made to be shared, it has to cater to everyone’s dietary restrictions: omnivore, pescatarian, vegetarian, vegan, gluten-free, low fodmap etc.  In the pika spirit, I embarked to make a gluten-free, dairy-free challah.  I would have gone the whole 9 and done vegan, but I really can’t imagine doing challah without an egg wash.&lt;/p&gt;
 
@@ -29,22 +27,22 @@ in between
 
 &lt;h1 id=&quot;the-specs2&quot;&gt;The Specs2&lt;/h1&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;vi&quot;&gt;@Pikan_ish&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gluten&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;free&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dairy&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;free&lt;/span&gt;
-&lt;span class=&quot;vi&quot;&gt;@Bready&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;solid&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;outside&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;soft&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inside&lt;/span&gt;
-&lt;span class=&quot;vi&quot;&gt;@Asian_ish&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;including&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;some&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;special&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Korean&lt;/span&gt; 
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;nd&quot;&gt;@Pikan_ish&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gluten&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;free&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dairy&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;free&lt;/span&gt;
+&lt;span class=&quot;nd&quot;&gt;@Bready&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;solid&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;outside&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;soft&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inside&lt;/span&gt;
+&lt;span class=&quot;nd&quot;&gt;@Asian_ish&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;including&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;some&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;special&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Korean&lt;/span&gt; 
 
-&lt;span class=&quot;vi&quot;&gt;@return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;challah&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;span class=&quot;nd&quot;&gt;@return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;challah&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h1 id=&quot;the-specs3&quot;&gt;The Specs3&lt;/h1&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;vi&quot;&gt;@param&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Pikan_ish&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gluten&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;free&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dairy&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;free&lt;/span&gt;
-&lt;span class=&quot;vi&quot;&gt;@param&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Bready&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;solid&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;outside&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;soft&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inside&lt;/span&gt;
-&lt;span class=&quot;vi&quot;&gt;@param&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Asian_ish&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;including&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;some&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;special&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Korean&lt;/span&gt; 
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;nd&quot;&gt;@param&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Pikan_ish&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gluten&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;free&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dairy&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;free&lt;/span&gt;
+&lt;span class=&quot;nd&quot;&gt;@param&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Bready&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;solid&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;outside&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;soft&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inside&lt;/span&gt;
+&lt;span class=&quot;nd&quot;&gt;@param&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Asian_ish&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;including&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;some&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;special&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Korean&lt;/span&gt; 
 
-&lt;span class=&quot;vi&quot;&gt;@throws&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;PanicDance&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;If&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gluten&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;free&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;flour&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sabotages&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hopes&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dreams&lt;/span&gt; 
-&lt;span class=&quot;vi&quot;&gt;@return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;challah&lt;/span&gt;
+&lt;span class=&quot;nd&quot;&gt;@throws&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PanicDance&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;If&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gluten&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;free&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;flour&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sabotages&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hopes&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dreams&lt;/span&gt; 
+&lt;span class=&quot;nd&quot;&gt;@return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;challah&lt;/span&gt;
 
-&lt;span class=&quot;kp&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bread&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gf_df_challah_1_0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Stuff&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ingredients&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bread&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;gf_df_challah_1_0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Stuff&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ingredients&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h1 id=&quot;bare-recipe&quot;&gt;Bare Recipe&lt;/h1&gt;
 
@@ -62,56 +60,52 @@ in between
 &lt;/ol&gt;
 
 &lt;h1 id=&quot;recipe-with-pictures&quot;&gt;Recipe with Pictures&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;recipe_images/2yeast.jpg&quot; alt=&quot;yeast&quot; /&gt;
-1. 2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Yeast&lt;/code&gt; + 2t &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + 1.5C &lt;code class=&quot;highlighter-rouge&quot;&gt;Warm Water&lt;/code&gt;: let &lt;strong&gt;froth&lt;/strong&gt; for ~5min
-&lt;img src=&quot;recipe_images/3wet.jpg&quot; alt=&quot;wet&quot; /&gt;
-2. 2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + 1.5t &lt;code class=&quot;highlighter-rouge&quot;&gt;Salt&lt;/code&gt; + 0.5C &lt;code class=&quot;highlighter-rouge&quot;&gt;Coconut Oil&lt;/code&gt; + 6 &lt;code class=&quot;highlighter-rouge&quot;&gt;Eggs&lt;/code&gt;: &lt;strong&gt;mix&lt;/strong&gt; at medium speed until combined
-3. Combine &lt;em&gt;Yeast Mixture&lt;/em&gt;+&lt;em&gt;Other Wet Ingredients&lt;/em&gt;&lt;/p&gt;
-&lt;table class=&quot;image&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;I trusted you, internet...&lt;/caption&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;recipe_images/1gf_flour.jpg&quot; alt=&quot;I trusted you, internet...&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;table class=&quot;image&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;added flavor&lt;/caption&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;recipe_images/4mix.jpg&quot; alt=&quot;added flavor&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/2yeast.jpg&quot; alt=&quot;yeast&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;/+6C &lt;em&gt;Gluten-Free Flour Mix&lt;/em&gt; (4C &lt;code class=&quot;highlighter-rouge&quot;&gt;Rice Flour&lt;/code&gt;+ 1.33C &lt;code class=&quot;highlighter-rouge&quot;&gt;Potato Flour&lt;/code&gt; + 0.66C &lt;code class=&quot;highlighter-rouge&quot;&gt;Almond Flour&lt;/code&gt;): &lt;strong&gt;slowly&lt;/strong&gt; add to &lt;em&gt;All the Wet Ingredients&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;table class=&quot;image&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;The batter was way too wet, so I had to think quickly.  The only thing that made sense to me was to control the slop by putting it into baggies&lt;/caption&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;recipe_images/5squirt.jpg&quot; alt=&quot;The batter was way too wet, so I had to think quickly.  The only thing that made sense to me was to control the slop by putting it into baggies&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Attempt to &lt;strong&gt;knead&lt;/strong&gt; for about 8min == &lt;strong&gt;FAIL&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;table class=&quot;image&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;lol. looks like dooky&lt;/caption&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;recipe_images/6pat.jpg&quot; alt=&quot;lol. looks like dooky&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Squirt&lt;/strong&gt; into muffin tins, while sandwiching a squirt of &lt;code class=&quot;highlighter-rouge&quot;&gt;팥&lt;/code&gt; (maybe 2C total?)
-&lt;img src=&quot;recipe_images/7proof.jpg&quot; alt=&quot;proof&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Proof&lt;/strong&gt; for 45min; &lt;strong&gt;pray&lt;/strong&gt; for mercy&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;recipe_images/8eggwash.jpg&quot; alt=&quot;proof&quot; /&gt;
-8. /+1 &lt;code class=&quot;highlighter-rouge&quot;&gt;Egg&lt;/code&gt;: &lt;strong&gt;eggwash&lt;/strong&gt;
-&lt;img src=&quot;recipe_images/9bake.jpg&quot; alt=&quot;bake&quot; /&gt;
-9. &lt;strong&gt;Bake&lt;/strong&gt; for 40min at 375F(135Celsius)&lt;/p&gt;
-&lt;table class=&quot;image&quot;&gt;
-&lt;caption align=&quot;bottom&quot;&gt;I hope I never have to taste this ever again&lt;/caption&gt;
-&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;recipe_images/final.jpg&quot; alt=&quot;I hope I never have to taste this ever again&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Cool&lt;/strong&gt; for 10min; &lt;strong&gt;Sample&lt;/strong&gt;; &lt;strong&gt;Dump&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Yeast&lt;/code&gt; + 2t &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + 1.5C &lt;code class=&quot;highlighter-rouge&quot;&gt;Warm Water&lt;/code&gt;: let &lt;strong&gt;froth&lt;/strong&gt; for ~5min
+&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/3wet.jpg&quot; alt=&quot;wet&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + 1.5t &lt;code class=&quot;highlighter-rouge&quot;&gt;Salt&lt;/code&gt; + 0.5C &lt;code class=&quot;highlighter-rouge&quot;&gt;Coconut Oil&lt;/code&gt; + 6 &lt;code class=&quot;highlighter-rouge&quot;&gt;Eggs&lt;/code&gt;: &lt;strong&gt;mix&lt;/strong&gt; at medium speed until combined&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Combine &lt;em&gt;Yeast Mixture&lt;/em&gt;+&lt;em&gt;Other Wet Ingredients&lt;/em&gt;
+&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/1gf_flour.jpg&quot; alt=&quot;gf-flour&quot; /&gt;
+I trusted you, internet…
+&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/4mix.jpg&quot; alt=&quot;mix&quot; /&gt;
+added flavor&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;/+6C &lt;em&gt;Gluten-Free Flour Mix&lt;/em&gt; (4C &lt;code class=&quot;highlighter-rouge&quot;&gt;Rice Flour&lt;/code&gt;+ 1.33C &lt;code class=&quot;highlighter-rouge&quot;&gt;Potato Flour&lt;/code&gt; + 0.66C &lt;code class=&quot;highlighter-rouge&quot;&gt;Almond Flour&lt;/code&gt;): &lt;strong&gt;slowly&lt;/strong&gt; add to &lt;em&gt;All the Wet Ingredients&lt;/em&gt;
+&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/5squirt.jpg&quot; alt=&quot;squirt&quot; /&gt;
+The batter was way too wet, so I had to think quickly.  The only thing that made sense to me was to control the slop by putting it into baggies&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Attempt to &lt;strong&gt;knead&lt;/strong&gt; for about 8min == &lt;strong&gt;FAIL&lt;/strong&gt;
+&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/6pat.jpg&quot; alt=&quot;pat&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Squirt&lt;/strong&gt; into muffin tins, while sandwiching a squirt of &lt;code class=&quot;highlighter-rouge&quot;&gt;팥&lt;/code&gt; (maybe 2C total?)
+&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/7proof.jpg&quot; alt=&quot;proof&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Proof&lt;/strong&gt; for 45min; &lt;strong&gt;pray&lt;/strong&gt; for mercy
+&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/8eggwash.jpg&quot; alt=&quot;proof&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;/+1 &lt;code class=&quot;highlighter-rouge&quot;&gt;Egg&lt;/code&gt;: &lt;strong&gt;eggwash&lt;/strong&gt;
+&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/9bake.jpg&quot; alt=&quot;bake&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bake&lt;/strong&gt; for 40min at 375F(135Celsius)
+&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/final.jpg&quot; alt=&quot;final&quot; /&gt;
+I hope I never have to taste this ever again&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cool&lt;/strong&gt; for 10min; &lt;strong&gt;Sample&lt;/strong&gt;; &lt;strong&gt;Dump&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h1 id=&quot;code-review&quot;&gt;Code Review&lt;/h1&gt;
