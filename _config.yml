@@ -19,8 +19,8 @@ Warning: This is not really a recipe blog.  Many mi-steaks will be made.
 Do not attempt the day of that really-important dinner or whatever...'
 # »«
 
-# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-# credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+# The credits show up in the includes/_footer.html 
+# original credit of content to Phlow: http://phlow.de/ ANNE SAYS THANKS!!!!
 credits: '<p>Created with &hearts; by <a href="https://www.facebook.com/Herro.Anne.Kim">Anne Kim</a></p>'
 
 # Main author of the website
@@ -34,7 +34,7 @@ baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/herroannekim/herroannekim.github.io/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -46,7 +46,7 @@ urlimg: 'https://herroannekim.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "white-logo.gif"
 
 # Gems
 gems:
@@ -115,7 +115,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: Anne     # Default author for pages
   -
     scope:
       path: ''
@@ -124,7 +124,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Anne     # Default author for posts
 
 
 
@@ -161,16 +161,16 @@ bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
 favicon-32x32:                          'favicon-32x32.png'
-touch-icon-192x192:                     'android-icon-192x192.png'
-apple-touch-icon-180x180-precomposed:   'apple-icon-180x180.png'
-apple-touch-icon-152x152-precomposed:   'apple-icon-152x152.png'
-apple-touch-icon-144x144-precomposed:   'apple-icon-144x144.png'
-apple-touch-icon-120x120-precomposed:   'apple-icon-120x120.png'
-apple-touch-icon-114x114-precomposed:   'apple-icon-114x114.png'
-apple-touch-icon-76x76-precomposed:     'apple-icon-76x76.png'
-apple-touch-icon-72x72-precomposed:     'apple-icon-72x72.png'
-apple-touch-icon-precomposed:           'apple-icon.png'
-msapplication_tileimage:                'ms-icon-310x310.png'               # Size 144x144
+touch-icon-192x192:                     'touch-icon-192x192.png'
+apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
+apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
+apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
+apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
+apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
+apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
+apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
+apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
+msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
 msapplication_tilecolor:                '#fabb00'
 
 
@@ -180,7 +180,7 @@ msapplication_tilecolor:                '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+og_image:                           'https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/11990411_10156118429245195_7830992619200469255_n.jpg?oh=eaeafb13d6d78e7c90d168e2c6995442&oe=58AC38FF'
 og_locale:                          'en_EN'
 og_type:                            'website'
 
@@ -195,8 +195,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter: herroannekim
+    facebook: herroannekim
 
 
 #        ____  _
@@ -208,7 +208,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+disqus_shortname: eaterativedevelopment
 
 
 #      _____

@@ -12,7 +12,6 @@ header: no
 ---
 [TL;DR Recipe][TLDR-Recipe]
 
-![final]({{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/final.jpg =250x100)
 <img src="{{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/final.jpg" width="500">
 
 I was really missing pika (my co-op) at MIT.  Every night, we share a delightful homemade dinner by one of the rotations of big and little cooks.  Because the meal is made to be shared, it has to cater to everyone's dietary restrictions: omnivore, pescatarian, vegetarian, vegan, gluten-free, low fodmap etc.  In the pika spirit, I embarked to make a gluten-free, dairy-free challah.  I would have gone the whole 9 and done vegan, but I really can't imagine doing challah without an egg wash. 
@@ -33,34 +32,43 @@ private bread gf_df_challah_1_0(Stuff ingredients)
 <img src="{{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/2yeast.jpg" width="250">
 
 1. 2T `Yeast` + 2t `Sugar` + 1.5C `Warm Water`: let **froth** for ~5min
-![wet]({{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/3wet.jpg)
+
+<img src="{{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/3wet.jpg" width="250">
 
 2. 2T `Sugar` + 1.5t `Salt` + 0.5C `Coconut Oil` + 6 `Eggs`: **mix** at medium speed until combined
 
 3. Combine *Yeast Mixture*+*Other Wet Ingredients*
-![gf-flour]({{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/1gf_flour.jpg)
+
+<img src="{{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/1gf_flour.jpg" width="250">
 I trusted you, internet...
-![mix]({{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/4mix.jpg)
+
+<img src="{{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/4mix.jpg" width="250">
 added flavor
 
-4. /+6C *Gluten-Free Flour Mix* (4C `Rice Flour`+ 1.33C `Potato Flour` + 0.66C `Almond Flour`): **slowly** add to *All the Wet Ingredients*
-![squirt]({{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/5squirt.jpg)
+4. +6C *Gluten-Free Flour Mix* (4C `Rice Flour`+ 1.33C `Potato Flour` + 0.66C `Almond Flour`): **slowly** add to *All the Wet Ingredients*
+
+<img src="{{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/5squirt.jpg" width="250">
 The batter was way too wet, so I had to think quickly.  The only thing that made sense to me was to control the slop by putting it into baggies
 
 5. Attempt to **knead** for about 8min == **FAIL**
-![pat]({{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/6pat.jpg)
+
+<img src="{{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/6pat.jpg" width="250">
 
 6. **Squirt** into muffin tins, while sandwiching a squirt of `팥` (maybe 2C total?)
-![proof]({{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/7proof.jpg)
+
+<img src="{{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/7proof.jpg" width="250">
 
 7. **Proof** for 45min; **pray** for mercy
-![proof]({{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/8eggwash.jpg)
 
-8. /+1 `Egg`: **eggwash**
-![bake]({{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/9bake.jpg)
+<img src="{{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/8eggwash.jpg" width="250">
 
-9. **Bake** for 40min at 375F(135Celsius)
-![final]({{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/final.jpg)
+8. +1 `Egg`: **eggwash**
+
+<img src="{{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/9bake.jpg" width="250">
+
+9. **Bake** for 40min at 375F(135C)
+
+<img src="{{ site.urlimg }}2016-09-02-gf-df-challah-1-0-images/final.jpg" width="250">
 I hope I never have to taste this ever again
 
 10. **Cool** for 10min; **Sample**; **Dump**
