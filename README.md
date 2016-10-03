@@ -13,6 +13,8 @@ I love baking and have always wanted to chronicle my fun in some way besides flo
 I have big plans for features and I'm so happy that you're here reading this to keep me accountable to finish the following tasks:
 
 ### Tech-Wise
+- [ ] Figure out how to make code highlighting less green
+- [ ] Bake-sale tool
 - [ ] Create fun, secret pages (maybe with some dancing; jitter `bug` anyone?)
 - [ ] Connect related recipes by tag and version
 - [ ] Create a terminal visual that shows the "eat" (git theme lol) log history of recipe development
@@ -24,6 +26,7 @@ I have big plans for features and I'm so happy that you're here reading this to 
 - [ ] Try more gluten-free or vegan desserts
 - [ ] Integrate [IBM's Chef Watson](https://www.ibmchefwatson.com/)
 - [ ] Add holiday themes! 
+- [ ] lol add fake advertisements
 
 ### Recipe-wise
 - [ ] Carrot cake

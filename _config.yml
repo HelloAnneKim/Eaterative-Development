@@ -8,24 +8,28 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Feeling Responsive'
+title: 'Eaterative Development'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: 'A lot of the same sh*t, just slightly different'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
+description: 'Eaterative Development combines the two goals of improving my baking as well as coding.  
+Warning: This is not really a recipe blog.  Many mi-steaks will be made.  
+Do not attempt the day of that really-important dinner or whatever...'
+# »«
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+# credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created with &hearts; by <a href="https://www.facebook.com/Herro.Anne.Kim">Anne Kim</a></p>'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: Anne
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io/feeling-responsive'
+url: 'https://herroannekim.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +42,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://herroannekim.github.io/images/'
 
 
 # Logo size is 600x80 pixels
@@ -157,16 +161,16 @@ bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
 favicon-32x32:                          'favicon-32x32.png'
-touch-icon-192x192:                     'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
+touch-icon-192x192:                     'android-icon-192x192.png'
+apple-touch-icon-180x180-precomposed:   'apple-icon-180x180.png'
+apple-touch-icon-152x152-precomposed:   'apple-icon-152x152.png'
+apple-touch-icon-144x144-precomposed:   'apple-icon-144x144.png'
+apple-touch-icon-120x120-precomposed:   'apple-icon-120x120.png'
+apple-touch-icon-114x114-precomposed:   'apple-icon-114x114.png'
+apple-touch-icon-76x76-precomposed:     'apple-icon-76x76.png'
+apple-touch-icon-72x72-precomposed:     'apple-icon-72x72.png'
+apple-touch-icon-precomposed:           'apple-icon.png'
+msapplication_tileimage:                'ms-icon-310x310.png'               # Size 144x144
 msapplication_tilecolor:                '#fabb00'
 
 
