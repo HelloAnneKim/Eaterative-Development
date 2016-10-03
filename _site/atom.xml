@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/</id>
+	<id>https://herroannekim.github.io/</id>
 	<title>Eaterative Development</title>
-	<updated>2016-10-03T19:05:48+09:00</updated>
+	<updated>2016-10-03T21:56:53+09:00</updated>
 
 	<subtitle>Eaterative Development combines the two goals of improving my baking as well as coding. Warning: This is not really a recipe blog.  Many mi-steaks will be made. Do not attempt the day of that really-important dinner or whatever...</subtitle>
 
@@ -19,16 +19,16 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+	<link href="https://herroannekim.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://herroannekim.github.io/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000/tldr/tldr-gf-df-challah-1-0/</id>
+			<id>https://herroannekim.github.io/tldr/tldr-gf-df-challah-1-0/</id>
 			<title>GF DF Challah 1.0 TLDR</title>
-			<link href="http://localhost:4000/tldr/tldr-gf-df-challah-1-0/" rel="alternate" type="text/html" title="GF DF Challah 1.0 TLDR" />
+			<link href="https://herroannekim.github.io/tldr/tldr-gf-df-challah-1-0/" rel="alternate" type="text/html" title="GF DF Challah 1.0 TLDR" />
 			<updated>2016-09-02T00:00:00+09:00</updated>
 
 			
@@ -42,7 +42,7 @@
 				</author>
 			
 			<summary>lol what was I thinking...</summary>
-			<content type="html" xml:base="http://localhost:4000/tldr/tldr-gf-df-challah-1-0/">&lt;h1 id=&quot;gf-df-challah-10-tldr&quot;&gt;GF DF Challah 1.0 TLDR&lt;/h1&gt;
+			<content type="html" xml:base="https://herroannekim.github.io/tldr/tldr-gf-df-challah-1-0/">&lt;h1 id=&quot;gf-df-challah-10-tldr&quot;&gt;GF DF Challah 1.0 TLDR&lt;/h1&gt;
 &lt;p&gt;Input&lt;/p&gt;
 
 &lt;ul&gt;
@@ -102,9 +102,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/recipes/gf-df-challah-1-0/</id>
+			<id>https://herroannekim.github.io/recipes/gf-df-challah-1-0/</id>
 			<title>GF DF Challah 1.0</title>
-			<link href="http://localhost:4000/recipes/gf-df-challah-1-0/" rel="alternate" type="text/html" title="GF DF Challah 1.0" />
+			<link href="https://herroannekim.github.io/recipes/gf-df-challah-1-0/" rel="alternate" type="text/html" title="GF DF Challah 1.0" />
 			<updated>2016-09-02T00:00:00+09:00</updated>
 
 			
@@ -118,9 +118,9 @@
 				</author>
 			
 			<summary>lol what was I thinking...</summary>
-			<content type="html" xml:base="http://localhost:4000/recipes/gf-df-challah-1-0/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/tldr/tldr-gf-df-challah-1-0&quot;&gt;TL;DR Recipe&lt;/a&gt;&lt;/p&gt;
+			<content type="html" xml:base="https://herroannekim.github.io/recipes/gf-df-challah-1-0/">&lt;p&gt;&lt;a href=&quot;https://herroannekim.github.io/tldr/tldr-gf-df-challah-1-0&quot;&gt;TL;DR Recipe&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2016-09-02-gf-df-challah-1-0-images/final.jpg&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/final.jpg&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I was really missing pika (my co-op) at MIT.  Every night, we share a delightful homemade dinner by one of the rotations of big and little cooks.  Because the meal is made to be shared, it has to cater to everyone’s dietary restrictions: omnivore, pescatarian, vegetarian, vegan, gluten-free, low fodmap etc.  In the pika spirit, I embarked to make a gluten-free, dairy-free challah.  I would have gone the whole 9 and done vegan, but I really can’t imagine doing challah without an egg wash.&lt;/p&gt;
 
@@ -134,13 +134,13 @@
 &lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bread&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;gf_df_challah_1_0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Stuff&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ingredients&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h1 id=&quot;section&quot;&gt;{&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2016-09-02-gf-df-challah-1-0-images/2yeast.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/2yeast.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Yeast&lt;/code&gt; + 2t &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + 1.5C &lt;code class=&quot;highlighter-rouge&quot;&gt;Warm Water&lt;/code&gt;: let &lt;strong&gt;froth&lt;/strong&gt; for ~5min&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2016-09-02-gf-df-challah-1-0-images/3wet.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/3wet.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -151,48 +151,48 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2016-09-02-gf-df-challah-1-0-images/1gf_flour.jpg&quot; width=&quot;250&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/1gf_flour.jpg&quot; width=&quot;250&quot; /&gt;
 I trusted you, internet…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2016-09-02-gf-df-challah-1-0-images/4mix.jpg&quot; width=&quot;250&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/4mix.jpg&quot; width=&quot;250&quot; /&gt;
 added flavor&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;+6C &lt;em&gt;Gluten-Free Flour Mix&lt;/em&gt; (4C &lt;code class=&quot;highlighter-rouge&quot;&gt;Rice Flour&lt;/code&gt;+ 1.33C &lt;code class=&quot;highlighter-rouge&quot;&gt;Potato Flour&lt;/code&gt; + 0.66C &lt;code class=&quot;highlighter-rouge&quot;&gt;Almond Flour&lt;/code&gt;): &lt;strong&gt;slowly&lt;/strong&gt; add to &lt;em&gt;All the Wet Ingredients&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2016-09-02-gf-df-challah-1-0-images/5squirt.jpg&quot; width=&quot;250&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/5squirt.jpg&quot; width=&quot;250&quot; /&gt;
 The batter was way too wet, so I had to think quickly.  The only thing that made sense to me was to control the slop by putting it into baggies&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Attempt to &lt;strong&gt;knead&lt;/strong&gt; for about 8min == &lt;strong&gt;FAIL&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2016-09-02-gf-df-challah-1-0-images/6pat.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/6pat.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;Squirt&lt;/strong&gt; into muffin tins, while sandwiching a squirt of &lt;code class=&quot;highlighter-rouge&quot;&gt;팥&lt;/code&gt; (maybe 2C total?)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2016-09-02-gf-df-challah-1-0-images/7proof.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/7proof.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;Proof&lt;/strong&gt; for 45min; &lt;strong&gt;pray&lt;/strong&gt; for mercy&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2016-09-02-gf-df-challah-1-0-images/8eggwash.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/8eggwash.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;+1 &lt;code class=&quot;highlighter-rouge&quot;&gt;Egg&lt;/code&gt;: &lt;strong&gt;eggwash&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2016-09-02-gf-df-challah-1-0-images/9bake.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/9bake.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;Bake&lt;/strong&gt; for 40min at 375F(135C)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/2016-09-02-gf-df-challah-1-0-images/final.jpg&quot; width=&quot;250&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-02-gf-df-challah-1-0-images/final.jpg&quot; width=&quot;250&quot; /&gt;
 I hope I never have to taste this ever again&lt;/p&gt;
 
 &lt;ol&gt;
@@ -206,7 +206,7 @@ I hope I never have to taste this ever again&lt;/p&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Pikan-ish&lt;/code&gt;: I didn’t cave into adding any gluten or dairy. [
 &lt;img src=&quot;/assets/img/check.jpg&quot; alt=&quot;checkmark&quot; /&gt;
 ]
-&lt;!-- ![checkmark](http://localhost:4000/assets/check.jpg) --&gt;&lt;/li&gt;
+&lt;!-- ![checkmark](https://herroannekim.github.io/assets/check.jpg) --&gt;&lt;/li&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Still bready&lt;/code&gt;: It was super dense and not very tastey at all. [ X ]&lt;/li&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Asian-sh&lt;/code&gt;: I added some 팥 (Korean red bean), so I guess it had that going for it [
 &lt;img src=&quot;/assets/img/check.jpg&quot; alt=&quot;checkmark&quot; /&gt;
