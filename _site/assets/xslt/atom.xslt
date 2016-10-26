@@ -102,7 +102,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://herroannekim.github.io" class="icon-tree"> Eaterative Development</a></h1>
+      <h1 class="show-for-small-only"><a href="https://herroannekim.github.io" class="icon-heart"> Eaterative Development</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -209,8 +209,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://herroannekim.github.io" title="Eaterative Development – A lot of the same sh*t, just slightly different">
-				<img src="https://herroannekim.github.io/assets/img/white-logo.gif" alt="Eaterative Development – A lot of the same sh*t, just slightly different">
+			<a id="logo" href="https://herroannekim.github.io" title="Eaterative Development – Same same, but different">
+				<img src="https://herroannekim.github.io/assets/img/transparent_logo.gif" alt="Eaterative Development – Same same, but different">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->

@@ -3,22 +3,12 @@
 <ul class="post-list">
     {% for post in site.posts %}
         {% if post.categories contains 'recipes' %}
-            <li>
-                {% assign foundImage = 0 %}
-                {% assign images = post.content | split:"<img " %}
-                {% for image in images %}
-                    {% if image contains 'src' %}
-                        {% if foundImage == 0 %}
-                            {% assign html = image | split:"/>" | first %}
-                            <img {{ html }} width="100"/>
-                            {% assign foundImage = 1 %}
-                        {% endif %}
-                    {% endif %}
-                {% endfor %}
+            <p>
+                {% if post.image.thumb %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.title escape_once }}"><img src="{{ site.urlimg }}{{ post.image.thumb }}" class="alignleft" width="150" height="150" alt="{{ page.title escape_once }}"></a>{% endif %}
 
                 <a href="{{ post.url }}">{{ post.title }}</a>
                 (<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>)
-            </li>
+            </p>
         {% endif %}
     {% endfor %}
 </ul>

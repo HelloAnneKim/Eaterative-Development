@@ -2,26 +2,30 @@
 layout: plain
 <!-- sidebar: left -->
 title:  "GF DF Challah 1.0 TLDR"
-teaser: "lol what was I thinking..."
 date:   2016-09-02 
 categories: tldr
-tags: gf, df, bread, challah, gf_df_challah, gf_df_challah_1_, gf_df_challah_1_0
+tags:  gf, df, dessert, bread, challah, gf_df_challah, gf_df_challah_1_, gf_df_challah_1_0, fail
 breadcrumb: true
 header: no
+
+image:
+    title: 2016-09-02-gf-df-challah-1-0-images/final.jpg
+    thumb: 2016-09-02-gf-df-challah-1-0-images/final.jpg
+    homepage: 2016-09-02-gf-df-challah-1-0-images/final.jpg
 ---
 
 GF DF Challah 1.0 TLDR
 ====================
 Input
 
-* [ ] 2T `Yeast`
-* [ ] 2t + 2T `Sugar`
-* [ ] 1.5C `Warm Water`
-* [ ] 1.5t `Salt`
-* [ ] 0.5C `Coconut Oil`
-* [ ] 6+1 `Eggs`
-* [ ] 6C *Gluten-Free Flour Mix* (4C `Rice Flour`+ 1.33C `Potato Flour` + 0.66C `Almond Flour`) 
-* [ ] 2C `팥` (red bean paste)
+* 2T `Yeast`
+* 2t + 2T `Sugar`
+* 1.5C `Warm Water`
+* 1.5t `Salt`
+* 0.5C `Coconut Oil`
+* 6+1 `Eggs`
+* 6C *Gluten-Free Flour Mix* (4C `Rice Flour`+ 1.33C `Potato Flour` + 0.66C `Almond Flour`) 
+* 2C `팥` (red bean paste)
 
 ---
 

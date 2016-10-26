@@ -11,7 +11,7 @@
 title: 'Eaterative Development'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A lot of the same sh*t, just slightly different'
+slogan: 'Same same, but different'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'Eaterative Development combines the two goals of improving my baking as well as coding.  
@@ -46,7 +46,7 @@ urlimg: 'https://herroannekim.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "white-logo.gif"
+logo: "transparent_logo.gif"
 
 # Gems
 gems:
