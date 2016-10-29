@@ -110,6 +110,63 @@
 			</item>
 		
 			<item>
+				<title>Red Bean Challah 1.0</title>
+				<link>https://herroannekim.github.io/recipes/red-bean-challah-1-0/</link>
+				<pubDate>Sat, 03 Sep 2016 00:00:00 +0900</pubDate>
+				<description>&lt;p&gt;&lt;a href=&quot;https://herroannekim.github.io/tldr/tldr-red-bean-challah-1-0&quot;&gt;TL;DR Recipe&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Since I’m in Korea, I might as well try to spice things up with a little local flavor. 팥 (red bean) is a really common flavor in Korean desserts, so it’d seemed like a no-brainer to add it to challah :D&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;cm&quot;&gt;/*
+* @Bready solid outside, soft inside
+* @Asian_ish including some special Korean 
+*
+* @throws PanicDance If Jewish desserts and Asian flavor were just not meant to be and my experimentation just went too far and made a confused frankenstein&#39;s monster 
+* @return challah
+*/&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bread&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;red_bean_challah_1_0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Stuff&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ingredients&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;1T &lt;code class=&quot;highlighter-rouge&quot;&gt;Yeast&lt;/code&gt; + 1T &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + 2.5C &lt;code class=&quot;highlighter-rouge&quot;&gt;Warm Water&lt;/code&gt;: let &lt;strong&gt;froth&lt;/strong&gt; for ~5min&lt;/li&gt;
+  &lt;li&gt;0.33C &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + 2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Sesame Oil&lt;/code&gt; + 2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Coconut Oil&lt;/code&gt; + 2 &lt;code class=&quot;highlighter-rouge&quot;&gt;Eggs&lt;/code&gt; + 1T &lt;code class=&quot;highlighter-rouge&quot;&gt;Salt&lt;/code&gt;: &lt;strong&gt;mix&lt;/strong&gt; at medium speed until combined&lt;/li&gt;
+  &lt;li&gt;8C &lt;code class=&quot;highlighter-rouge&quot;&gt;Flour&lt;/code&gt;: &lt;strong&gt;slowly add&lt;/strong&gt; to Wet Ingredients&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Knead&lt;/strong&gt; 6-8min&lt;/li&gt;
+  &lt;li&gt;Let dough &lt;strong&gt;rise&lt;/strong&gt; for 1.5hr&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Divide&lt;/strong&gt; dough in half&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Knead&lt;/strong&gt; each dough ball for 5min&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Roll&lt;/strong&gt; one dough ball into 2 sheets each about 8inx11in&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Spread&lt;/strong&gt; red bean on each dough sheet&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Roll&lt;/strong&gt; each dough sheet into a spiral&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cut&lt;/strong&gt; each dough spiral length-wise&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Braid&lt;/strong&gt; one of the dough balls&lt;/li&gt;
+  &lt;li&gt;Carefully place dough on a greased pan, &lt;strong&gt;cover&lt;/strong&gt; with plastic wrap, and let &lt;strong&gt;rise&lt;/strong&gt; for 1hr&lt;/li&gt;
+  &lt;li&gt;Repeat steps 8 and 9 for the second dough ball&lt;/li&gt;
+  &lt;li&gt;1 &lt;code class=&quot;highlighter-rouge&quot;&gt;Egg&lt;/code&gt;: mix egg and &lt;strong&gt;brush&lt;/strong&gt; challah&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bake&lt;/strong&gt; in 375F (190C) oven for 40min&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cool&lt;/strong&gt; for 10min; &lt;strong&gt;Sample&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;}&lt;/h1&gt;
+
+&lt;h1 id=&quot;code-review&quot;&gt;Code Review&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Bready&lt;/code&gt;: The bread had an amazing texture of hard on the outside while still staying moist on the inside [
+&lt;img src=&quot;/assets/img/check.jpg&quot; alt=&quot;checkmark&quot; /&gt;]&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Asian_ish&lt;/code&gt;: It was still challah, but just had something delightfully interesting on the inside!  Surprise! [
+&lt;img src=&quot;/assets/img/check.jpg&quot; alt=&quot;checkmark&quot; /&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;todo&quot;&gt;TODO&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Make something cheaper: Sesame oil and coconut oil are pretty expensive, so I might try some kind of soy oil next time&lt;/li&gt;
+  &lt;li&gt;More Asian: I wonder if I can really push this recipe to have even more Asian influence.  Maybe I could add some rice flour in the mix!&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://herroannekim.github.io/recipes/red-bean-challah-1-0/</guid>
+			</item>
+		
+			<item>
 				<title>Challah 1.0</title>
 				<link>https://herroannekim.github.io/recipes/challah-1-0/</link>
 				<pubDate>Sat, 03 Sep 2016 00:00:00 +0900</pubDate>
@@ -117,13 +174,13 @@
 
 &lt;p&gt;This time, no fancy stuff.  I just want to make challah that’s tasty&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;err&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Edible&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;something&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;I&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;could&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;proudly&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;serve&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;people&lt;/span&gt;
-&lt;span class=&quot;err&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Bready&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;solid&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;outside&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;soft&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inside&lt;/span&gt;
-
-&lt;span class=&quot;err&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;throws&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;PanicDance&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;If&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gluten&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;free&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;flour&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sabotages&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;hopes&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dreams&lt;/span&gt; 
-&lt;span class=&quot;err&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;challah&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bread&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;challah_1_0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Stuff&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ingredients&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;cm&quot;&gt;/*
+* @Edible something I could proudly serve to people
+* @Bready solid outside, soft inside
+* 
+* @return challah
+*/&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bread&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;challah_1_0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Stuff&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ingredients&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h1 id=&quot;section&quot;&gt;{&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-03-challah-1-0-images/2-froth.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
