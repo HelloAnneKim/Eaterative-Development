@@ -3,7 +3,7 @@ layout: plain
 title:  "Challah 1.0 TLDR"
 date:   2016-09-03
 categories: tldr
-tags: dessert, bread, challah, challah_1_, challah_1_0, success
+tags: dessert, bread, sesame, challah, challah_1_, challah_1_0, success
 breadcrumb: true
 header: no
 
@@ -26,6 +26,7 @@ Input
 * 2 + 1 `Eggs`
 * 1T `Salt`
 * 8C `Flour`
+* 0.5C `Sesame Seeds`
 
 ---
 
@@ -45,5 +46,6 @@ Input
 9. Carefully place dough on a greased pan, **cover** with plastic wrap, and let **rise** for 1hr
 10. Repeat steps 8 and 9 for the second dough ball
 11. 1 `Egg`: mix egg and **brush** challah
-12. **Bake** in 375F (190C) oven for 40min
-13. **Cool** for 10min; **Sample**
+12. **Sprinkle** sesame seeds on top
+13. **Bake** in 375F (190C) oven for 40min
+14. **Cool** for 10min; **Sample**
