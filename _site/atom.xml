@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://herroannekim.github.io/</id>
 	<title>Eaterative Development</title>
-	<updated>2016-10-26T18:02:54+09:00</updated>
+	<updated>2016-10-30T01:09:25+09:00</updated>
 
 	<subtitle>Eaterative Development combines the two goals of improving my baking as well as coding. Warning: This is not really a recipe blog.  Many mi-steaks will be made. Do not attempt the day of that really-important dinner or whatever...</subtitle>
 
@@ -26,6 +26,86 @@
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://herroannekim.github.io/tldr/tldr-challah-1-0/</id>
+			<title>Challah 1.0 TLDR</title>
+			<link href="https://herroannekim.github.io/tldr/tldr-challah-1-0/" rel="alternate" type="text/html" title="Challah 1.0 TLDR" />
+			<updated>2016-09-03T00:00:00+09:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Anne Kim</name>
+					
+					
+					
+						<uri>herroannekim.github.io/about</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://herroannekim.github.io/tldr/tldr-challah-1-0/">&lt;h1 id=&quot;challah-10-tldr&quot;&gt;Challah 1.0 TLDR&lt;/h1&gt;
+
+&lt;p&gt;Input&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1T &lt;code class=&quot;highlighter-rouge&quot;&gt;Yeast&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;1T + 0.333C &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;2.5C &lt;code class=&quot;highlighter-rouge&quot;&gt;Warm Water&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Sesame Oil&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Coconut Oil&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;2 + 1 &lt;code class=&quot;highlighter-rouge&quot;&gt;Eggs&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;1T &lt;code class=&quot;highlighter-rouge&quot;&gt;Salt&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;8C &lt;code class=&quot;highlighter-rouge&quot;&gt;Flour&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Compile Time: 3.66hr&lt;/li&gt;
+  &lt;li&gt;Bake Time: 40min&lt;/li&gt;
+  &lt;li&gt;Total Build Time: 4hr&lt;/li&gt;
+  &lt;li&gt;Output: 12 cupcakes == 12 servings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;1T &lt;code class=&quot;highlighter-rouge&quot;&gt;Yeast&lt;/code&gt; + 1T &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + 2.5C &lt;code class=&quot;highlighter-rouge&quot;&gt;Warm Water&lt;/code&gt;: let &lt;strong&gt;froth&lt;/strong&gt; for ~5min&lt;/li&gt;
+  &lt;li&gt;0.33C &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + 2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Sesame Oil&lt;/code&gt; + 2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Coconut Oil&lt;/code&gt; + 2 &lt;code class=&quot;highlighter-rouge&quot;&gt;Eggs&lt;/code&gt; + 1T &lt;code class=&quot;highlighter-rouge&quot;&gt;Salt&lt;/code&gt;: &lt;strong&gt;mix&lt;/strong&gt; at medium speed until combined&lt;/li&gt;
+  &lt;li&gt;8C &lt;code class=&quot;highlighter-rouge&quot;&gt;Flour&lt;/code&gt;: slowly add to Wet Ingredients&lt;/li&gt;
+  &lt;li&gt;Knead 6-8min&lt;/li&gt;
+  &lt;li&gt;Let dough &lt;strong&gt;rise&lt;/strong&gt; for 1.5hr&lt;/li&gt;
+  &lt;li&gt;Divide dough in half&lt;/li&gt;
+  &lt;li&gt;Knead each dough ball for 5min&lt;/li&gt;
+  &lt;li&gt;Braid one of the dough balls&lt;/li&gt;
+  &lt;li&gt;Carefully place dough on a greased pan, &lt;strong&gt;cover&lt;/strong&gt; with plastic wrap, and let &lt;strong&gt;rise&lt;/strong&gt; for 1hr&lt;/li&gt;
+  &lt;li&gt;Repeat steps 8 and 9 for the second dough ball&lt;/li&gt;
+  &lt;li&gt;1 &lt;code class=&quot;highlighter-rouge&quot;&gt;Egg&lt;/code&gt;: &lt;strong&gt;mix&lt;/strong&gt; egg and &lt;strong&gt;brush&lt;/strong&gt; challah&lt;/li&gt;
+  &lt;li&gt;Bake in 375F (190C) oven for 40min&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cool&lt;/strong&gt; for 10min; &lt;strong&gt;Sample&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+
+			
+				<category term="tldr" />
+			
+			
+				<category term="dessert," />
+			
+				<category term="bread," />
+			
+				<category term="challah," />
+			
+				<category term="challah_1_," />
+			
+				<category term="challah_1_0," />
+			
+				<category term="success" />
+			
+
+			<published>2016-09-03T00:00:00+09:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://herroannekim.github.io/tldr/tldr-gf-df-challah-1-0/</id>
