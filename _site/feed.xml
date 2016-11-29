@@ -50,6 +50,53 @@
 			</item>
 		
 			<item>
+				<title>Banana Bread 1.0</title>
+				<link>https://herroannekim.github.io/recipes/banana-bread-1-0/</link>
+				<pubDate>Sun, 04 Sep 2016 00:00:00 +0900</pubDate>
+				<description>&lt;p&gt;&lt;a href=&quot;https://herroannekim.github.io/tldr/tldr-banana-bread-1-0&quot;&gt;TL;DR Recipe&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Blah.  The story of me.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;cm&quot;&gt;/*
+* @Bready solid outside, soft inside
+* @Asian_ish including some special Korean flavor
+*
+* @throws PanicDance If Jewish desserts and Asian flavor were just not meant to be and my experimentation just went too far and made a confused frankenstein&#39;s monster 
+* @return challah
+*/&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bread&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;red_bean_challah_1_0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Stuff&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ingredients&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; 
+
+&lt;span class=&quot;n&quot;&gt;TODO&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TODO&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;TODO&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h1 id=&quot;section&quot;&gt;{&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-04-banana-bread-1-0-images-1-0-images/2-froth.jpg&quot; width=&quot;250&quot; /&gt; IMAGES IMAGES IMAGES&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Bananas&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Eggs&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Oil&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Yogurt&lt;/code&gt;: &lt;strong&gt;mix&lt;/strong&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Wet Ingredients&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Backing Soda&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Cinnamon&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Flour&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Salt&lt;/code&gt;: &lt;strong&gt;mix&lt;/strong&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Dry Ingredients&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Add&lt;/strong&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Dry Ingredients&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;Wet Ingredients&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pour&lt;/strong&gt; batter into a loaf pan&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bake&lt;/strong&gt; in 350F (175C) oven for 45min-1hr&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cool&lt;/strong&gt; for 10min; &lt;strong&gt;Sample&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;section-1&quot;&gt;}&lt;/h1&gt;
+
+&lt;h1 id=&quot;code-review&quot;&gt;Code Review&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Bready&lt;/code&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;todo&quot;&gt;TODO&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Make something cheaper:&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://herroannekim.github.io/recipes/banana-bread-1-0/</guid>
+			</item>
+		
+			<item>
 				<title>Red Bean Challah 1.0 TLDR</title>
 				<link>https://herroannekim.github.io/tldr/tldr-red-bean-challah-1-0/</link>
 				<pubDate>Sat, 03 Sep 2016 00:00:00 +0900</pubDate>
@@ -165,6 +212,7 @@
 */&lt;/span&gt;
 &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bread&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;red_bean_challah_1_0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Stuff&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ingredients&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
+&lt;h1 id=&quot;section&quot;&gt;{&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-03-challah-1-0-images/2-froth.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Don’t panic if the yeast doesn’t look too peppy and frothy.  It’ll eventually wake up!&lt;/p&gt;
@@ -222,7 +270,7 @@
   &lt;li&gt;&lt;strong&gt;Cool&lt;/strong&gt; for 10min; &lt;strong&gt;Sample&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h1 id=&quot;section&quot;&gt;}&lt;/h1&gt;
+&lt;h1 id=&quot;section-1&quot;&gt;}&lt;/h1&gt;
 
 &lt;h1 id=&quot;code-review&quot;&gt;Code Review&lt;/h1&gt;
 &lt;ul&gt;

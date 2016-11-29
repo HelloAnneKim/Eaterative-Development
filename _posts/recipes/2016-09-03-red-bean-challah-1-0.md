@@ -29,6 +29,8 @@ Since I'm in Korea, I might as well try to spice things up with a little local f
 public bread red_bean_challah_1_0(Stuff ingredients) 
 {% endhighlight %}
 
+{
+===
 <img src="{{ site.urlimg }}2016-09-03-challah-1-0-images/2-froth.jpg" width="250">
 
 Don't panic if the yeast doesn't look too peppy and frothy.  It'll eventually wake up!  
