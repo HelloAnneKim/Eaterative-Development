@@ -3,8 +3,8 @@ layout: compress
 ---
 <!doctype html>
 <html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+    {% include _favicon.html %}
 <body id="top-of-page" class="{{ layout.format }}">
-    {% include _favicon %}
     {{ content }}
 </body>
 </html>
