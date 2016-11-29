@@ -92,6 +92,6 @@ TODO
 ===
 * Make something cheaper: Sesame oil and coconut oil are pretty expensive, so I might try some kind of soy oil next time
 * Make it more moist: maybe add less flour or try the [sponge method][sponge]
-* Better filling: pick a less chunky red bean filling or pre-mash in the future iterations
+* Make better filling: pick a less chunky red bean filling or pre-mash in the future iterations
 
 [TLDR-Recipe]: {{ site.url }}/tldr/tldr-red-bean-challah-1-0
