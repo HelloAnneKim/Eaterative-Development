@@ -43,15 +43,13 @@
   &lt;li&gt;8C &lt;code class=&quot;highlighter-rouge&quot;&gt;Flour&lt;/code&gt;: &lt;strong&gt;slowly add&lt;/strong&gt; to Wet Ingredients&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Knead&lt;/strong&gt; 6-8min&lt;/li&gt;
   &lt;li&gt;Let dough &lt;strong&gt;rise&lt;/strong&gt; for 1.5hr&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Divide&lt;/strong&gt; dough in half&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Knead&lt;/strong&gt; each dough ball for 5min&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Roll&lt;/strong&gt; one dough ball into 2 sheets each about 8inx11in&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Knead&lt;/strong&gt; for 5min&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Roll&lt;/strong&gt;  into 2 sheets each about 8inx11in&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Spread&lt;/strong&gt; red bean on each dough sheet&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Roll&lt;/strong&gt; each dough sheet into a spiral&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Cut&lt;/strong&gt; each dough spiral length-wise&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Braid&lt;/strong&gt; one of the dough balls&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Braid&lt;/strong&gt; a 4-string braid&lt;/li&gt;
   &lt;li&gt;Carefully place dough on a greased pan, &lt;strong&gt;cover&lt;/strong&gt; with plastic wrap, and let &lt;strong&gt;rise&lt;/strong&gt; for 1hr&lt;/li&gt;
-  &lt;li&gt;Repeat steps 8 and 9 for the second dough ball&lt;/li&gt;
   &lt;li&gt;1 &lt;code class=&quot;highlighter-rouge&quot;&gt;Egg&lt;/code&gt;: mix egg and &lt;strong&gt;brush&lt;/strong&gt; challah&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Bake&lt;/strong&gt; in 375F (190C) oven for 40min&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Cool&lt;/strong&gt; for 10min; &lt;strong&gt;Sample&lt;/strong&gt;&lt;/li&gt;
@@ -115,34 +113,71 @@
 				<pubDate>Sat, 03 Sep 2016 00:00:00 +0900</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;https://herroannekim.github.io/tldr/tldr-red-bean-challah-1-0&quot;&gt;TL;DR Recipe&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Since I’m in Korea, I might as well try to spice things up with a little local flavor. 팥 (red bean) is a really common flavor in Korean desserts, so it’d seemed like a no-brainer to add it to challah :D&lt;/p&gt;
+&lt;p&gt;Since I’m in Korea, I might as well try to spice things up with a little local flavor. 팥 (red bean) is a really common flavor in Korean desserts, so it seemed like a no-brainer to add it to challah :D&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;cm&quot;&gt;/*
 * @Bready solid outside, soft inside
-* @Asian_ish including some special Korean 
+* @Asian_ish including some special Korean flavor
 *
 * @throws PanicDance If Jewish desserts and Asian flavor were just not meant to be and my experimentation just went too far and made a confused frankenstein&#39;s monster 
 * @return challah
 */&lt;/span&gt;
 &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bread&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;red_bean_challah_1_0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Stuff&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ingredients&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
+&lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-03-challah-1-0-images/2-froth.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Don’t panic if the yeast doesn’t look too peppy and frothy.  It’ll eventually wake up!&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;1T &lt;code class=&quot;highlighter-rouge&quot;&gt;Yeast&lt;/code&gt; + 1T &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + 2.5C &lt;code class=&quot;highlighter-rouge&quot;&gt;Warm Water&lt;/code&gt;: let &lt;strong&gt;froth&lt;/strong&gt; for ~5min&lt;/li&gt;
-  &lt;li&gt;0.33C &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + 2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Sesame Oil&lt;/code&gt; + 2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Coconut Oil&lt;/code&gt; + 2 &lt;code class=&quot;highlighter-rouge&quot;&gt;Eggs&lt;/code&gt; + 1T &lt;code class=&quot;highlighter-rouge&quot;&gt;Salt&lt;/code&gt;: &lt;strong&gt;mix&lt;/strong&gt; at medium speed until combined&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;0.33C &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + 2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Sesame Oil&lt;/code&gt; + 2T &lt;code class=&quot;highlighter-rouge&quot;&gt;Coconut Oil&lt;/code&gt; + 2 &lt;code class=&quot;highlighter-rouge&quot;&gt;Eggs&lt;/code&gt; + 1T &lt;code class=&quot;highlighter-rouge&quot;&gt;Salt&lt;/code&gt;: &lt;strong&gt;mix&lt;/strong&gt; at medium speed until combined&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-03-red-bean-challah-1-0-images/3-mix.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;8C &lt;code class=&quot;highlighter-rouge&quot;&gt;Flour&lt;/code&gt;: &lt;strong&gt;slowly add&lt;/strong&gt; to Wet Ingredients&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Knead&lt;/strong&gt; 6-8min&lt;/li&gt;
-  &lt;li&gt;Let dough &lt;strong&gt;rise&lt;/strong&gt; for 1.5hr&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Knead&lt;/strong&gt; 6-8min&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-03-red-bean-challah-1-0-images/4-rise.jpg&quot; width=&quot;250&quot; /&gt;
+ &lt;img src=&quot;https://herroannekim.github.io/images/2016-09-03-red-bean-challah-1-0-images/5-double.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;Wow so cute!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Let dough &lt;strong&gt;rise&lt;/strong&gt; for 1.5hr&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-03-red-bean-challah-1-0-images/6-punch.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;If your dough thinks he’s big and all, you can rough him up (punch the dough down).  That way, it’s easier to divide and handle.&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Divide&lt;/strong&gt; dough in half&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Knead&lt;/strong&gt; each dough ball for 5min&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Knead&lt;/strong&gt; each dough ball for 5min&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-03-red-bean-challah-1-0-images/7-roll.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Roll&lt;/strong&gt; one dough ball into 2 sheets each about 8inx11in&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Spread&lt;/strong&gt; red bean on each dough sheet&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Roll&lt;/strong&gt; each dough sheet into a spiral&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cut&lt;/strong&gt; each dough spiral length-wise&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Braid&lt;/strong&gt; one of the dough balls&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cut&lt;/strong&gt; each dough spiral length-wise&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-03-red-bean-challah-1-0-images/8-bean.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Braid&lt;/strong&gt; one of the dough balls&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-03-red-bean-challah-1-0-images/8-both.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;Carefully place dough on a greased pan, &lt;strong&gt;cover&lt;/strong&gt; with plastic wrap, and let &lt;strong&gt;rise&lt;/strong&gt; for 1hr&lt;/li&gt;
   &lt;li&gt;Repeat steps 8 and 9 for the second dough ball&lt;/li&gt;
   &lt;li&gt;1 &lt;code class=&quot;highlighter-rouge&quot;&gt;Egg&lt;/code&gt;: mix egg and &lt;strong&gt;brush&lt;/strong&gt; challah&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Bake&lt;/strong&gt; in 375F (190C) oven for 40min&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bake&lt;/strong&gt; in 375F (190C) oven for 40min&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://herroannekim.github.io/images/2016-09-03-red-bean-challah-1-0-images/final.jpg&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Cool&lt;/strong&gt; for 10min; &lt;strong&gt;Sample&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -307,7 +342,7 @@
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;cm&quot;&gt;/*
 * @Pikan_ish gluten-free and dairy-free
 * @Bready solid outside, soft inside
-* @Asian_ish including some special Korean 
+* @Asian_ish including some special Korean flavor
 * 
 * @throws PanicDance If gluten-free flour sabotages all hopes and dreams 
 * @return challah

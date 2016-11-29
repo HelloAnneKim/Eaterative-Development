@@ -25,7 +25,7 @@ I was really missing pika (my co-op) at MIT.  Every night, we share a delightful
 /*
 * @Pikan_ish gluten-free and dairy-free
 * @Bready solid outside, soft inside
-* @Asian_ish including some special Korean 
+* @Asian_ish including some special Korean flavor
 * 
 * @throws PanicDance If gluten-free flour sabotages all hopes and dreams 
 * @return challah

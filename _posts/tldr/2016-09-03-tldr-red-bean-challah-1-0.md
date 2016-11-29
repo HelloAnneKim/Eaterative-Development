@@ -40,15 +40,13 @@ Input
 3. 8C `Flour`: **slowly add** to Wet Ingredients
 4. **Knead** 6-8min
 5. Let dough **rise** for 1.5hr
-6. **Divide** dough in half
-7. **Knead** each dough ball for 5min
-8. **Roll** one dough ball into 2 sheets each about 8inx11in
-9. **Spread** red bean on each dough sheet
-10. **Roll** each dough sheet into a spiral
-11. **Cut** each dough spiral length-wise
-12. **Braid** one of the dough balls
-13. Carefully place dough on a greased pan, **cover** with plastic wrap, and let **rise** for 1hr
-14. Repeat steps 8 and 9 for the second dough ball
-15. 1 `Egg`: mix egg and **brush** challah
-16. **Bake** in 375F (190C) oven for 40min
-17. **Cool** for 10min; **Sample**
+6. **Knead** for 5min
+7. **Roll**  into 2 sheets each about 8inx11in
+8. **Spread** red bean on each dough sheet
+9. **Roll** each dough sheet into a spiral
+10. **Cut** each dough spiral length-wise
+11. **Braid** a 4-string braid
+12. Carefully place dough on a greased pan, **cover** with plastic wrap, and let **rise** for 1hr
+13. 1 `Egg`: mix egg and **brush** challah
+14. **Bake** in 375F (190C) oven for 40min
+15. **Cool** for 10min; **Sample**
