@@ -42,7 +42,7 @@ Input
 5. Let dough **rise** for 1.5hr
 6. **Knead** for 5min
 7. **Roll**  into 2 sheets each about 8inx11in
-8. **Spread** red bean on each dough sheet
+8. **Spread** `red bean` on each dough sheet
 9. **Roll** each dough sheet into a spiral
 10. **Cut** each dough spiral length-wise
 11. **Braid** a 4-string braid

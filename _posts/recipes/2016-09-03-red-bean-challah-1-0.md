@@ -58,13 +58,13 @@ Don't panic if the yeast doesn't look too peppy and frothy.  It'll eventually wa
     <img src="{{ site.urlimg }}2016-09-03-red-bean-challah-1-0-images/7-roll.jpg" width="250">
 
 8. **Roll** one dough ball into 2 sheets each about 8inx11in
-9. **Spread** red bean on each dough sheet
+9. **Spread** 0.333C of `red bean` on each dough sheet
 10. **Roll** each dough sheet into a spiral
 11. **Cut** each dough spiral length-wise
 
     <img src="{{ site.urlimg }}2016-09-03-red-bean-challah-1-0-images/8-bean.jpg" width="250">
 
-12. **Braid** one of the dough balls
+12. **Braid** a 4-string braid
 
     <img src="{{ site.urlimg }}2016-09-03-red-bean-challah-1-0-images/8-both.jpg" width="250">
 
@@ -91,6 +91,7 @@ Code Review
 TODO
 ===
 * Make something cheaper: Sesame oil and coconut oil are pretty expensive, so I might try some kind of soy oil next time
-* More Asian: I wonder if I can really push this recipe to have even more Asian influence.  Maybe I could add some rice flour in the mix!
+* Make it more moist: maybe add less flour or try the [sponge method][sponge]
+* Better filling: pick a less chunky red bean filling or pre-mash in the future iterations
 
 [TLDR-Recipe]: {{ site.url }}/tldr/tldr-red-bean-challah-1-0
