@@ -9,6 +9,47 @@
 		<atom:link href="https://herroannekim.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Banana Bread 1.0 TLDR</title>
+				<link>https://herroannekim.github.io/tldr/tldr-banana-bread-1-0/</link>
+				<pubDate>Sun, 04 Sep 2016 00:00:00 +0900</pubDate>
+				<description>&lt;h1 id=&quot;banana-bread-10-tldr&quot;&gt;Banana Bread 1.0 TLDR&lt;/h1&gt;
+
+&lt;p&gt;Input&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 &lt;code class=&quot;highlighter-rouge&quot;&gt;Bananas&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;2 &lt;code class=&quot;highlighter-rouge&quot;&gt;Eggs&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;1.5C &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;0.5C &lt;code class=&quot;highlighter-rouge&quot;&gt;Oil&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;0.25C &lt;code class=&quot;highlighter-rouge&quot;&gt;Yogurt&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;1t &lt;code class=&quot;highlighter-rouge&quot;&gt;Baking Soda&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;1T &lt;code class=&quot;highlighter-rouge&quot;&gt;Cinnamon&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;1.75C &lt;code class=&quot;highlighter-rouge&quot;&gt;Flour&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;1t &lt;code class=&quot;highlighter-rouge&quot;&gt;Salt&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Compile Time: 30min&lt;/li&gt;
+  &lt;li&gt;Bake Time: 45min-1hr&lt;/li&gt;
+  &lt;li&gt;Total Build Time: 1.25-1.5hr&lt;/li&gt;
+  &lt;li&gt;Output: 1 loaf == 10 slices/servings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Bananas&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Eggs&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Sugar&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Oil&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Yogurt&lt;/code&gt;: &lt;strong&gt;mix&lt;/strong&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Wet Ingredients&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Backing Soda&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Cinnamon&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Flour&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Salt&lt;/code&gt;: &lt;strong&gt;mix&lt;/strong&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Dry Ingredients&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Add&lt;/strong&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Dry Ingredients&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;Wet Ingredients&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pour&lt;/strong&gt; batter into a loaf pan&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bake&lt;/strong&gt; in 350F (175C) oven for 45min-1hr&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cool&lt;/strong&gt; for 10min; &lt;strong&gt;Sample&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+				<guid isPermaLink="true">https://herroannekim.github.io/tldr/tldr-banana-bread-1-0/</guid>
+			</item>
+		
+			<item>
 				<title>Red Bean Challah 1.0 TLDR</title>
 				<link>https://herroannekim.github.io/tldr/tldr-red-bean-challah-1-0/</link>
 				<pubDate>Sat, 03 Sep 2016 00:00:00 +0900</pubDate>
