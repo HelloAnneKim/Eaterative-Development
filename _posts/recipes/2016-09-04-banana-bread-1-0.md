@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Banana Bread 1.0"
-teaser: "Going back to the classic"
+teaser: "Making use of old stuff"
 date:   2016-09-04
 categories: recipes
 tags: dessert, quick, bread, banana, bread, banana_bread_1_, banana_bread_1_0, success
@@ -16,43 +16,51 @@ image:
 
 [TL;DR Recipe][TLDR-Recipe]
 
-Blah.  The story of me. 
-
 {% highlight java %}
-/*
-* @Bready solid outside, soft inside
-* @Asian_ish including some special Korean flavor
-*
-* @throws PanicDance If Jewish desserts and Asian flavor were just not meant to be and my experimentation just went too far and made a confused frankenstein's monster 
-* @return challah
-*/
-public bread red_bean_challah_1_0(Stuff ingredients) 
+if (bananas.isOldAF()) {
+    banana_bread_1_0(new ArrayList(bananas, other_stuff));
+}
 
-TODO TODO TODO 
+/*
+* @Moist easily eaten without a glass of milk
+* @return banana_bread
+*/
+public bread banana_bread_1_0(Stuff ingredients) 
 {% endhighlight %} 
 
 {
 ===
-<img src="{{ site.urlimg }}2016-09-04-banana-bread-1-0-images-1-0-images/2-froth.jpg" width="250"> IMAGES IMAGES IMAGES
+<img src="{{ site.urlimg }}2016-09-04-banana-bread-1-0-images/2-banana.jpg" width="250"> 
 
+Yeah... 
 
-1. `Bananas` + `Eggs` + `Sugar` + `Oil` + `Yogurt`: **mix** `Wet Ingredients`
-2. `Backing Soda` + `Cinnamon` + `Flour` + `Salt`: **mix** `Dry Ingredients`
+1. 2 `Bananas` + 2 `Eggs` + 1.5C `Sugar` + 0.5C `Oil` + 0.25C `Yogurt`: **mix** `Wet Ingredients`
+2. 1t `Baking Soda` + 1T `Cinnamon` + 1.75C `Flour` + 1t `Salt`: **mix** `Dry Ingredients`
+
+    <img src="{{ site.urlimg }}2016-09-04-banana-bread-1-0-images/3-mixed.jpg" width="250">
+
 3. **Add** `Dry Ingredients` to `Wet Ingredients`
 4. **Pour** batter into a loaf pan
-5. **Bake** in 350F (175C) oven for 45min-1hr
-6. **Cool** for 10min; **Sample**
+
+    <img src="{{ site.urlimg }}2016-09-04-banana-bread-1-0-images/5-sesame.jpg" width="250">
+
+5. **Sprinkle** 0.5C `Sesame Seeds`
+6. **Bake** in 350F (175C) oven for 45min-1hr
+
+    <img src="{{ site.urlimg }}2016-09-04-banana-bread-1-0-images/final.jpg" width="250">
+
+7. **Cool** for 10min; **Sample**
 
 }
 ===
 
 Code Review
 ===
-* `Bready`: 
+* `Moist`: Very moist!  Achievement unlocked!
 
 
 TODO
 ===
-* Make something cheaper: 
+* More interesting: maybe I could mix up the flavors a bit
 
 [TLDR-Recipe]: {{ site.url }}/tldr/tldr-banana-bread-1-0
